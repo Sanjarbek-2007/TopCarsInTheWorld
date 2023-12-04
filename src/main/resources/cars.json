@@ -1,0 +1,51 @@
+[
+  {
+    "photoPath": "src/main/resources/bmw.jpg",
+    "carName": "1 BMW M5\n",
+    "carDescription": "Engine: 4.4-liter TwinPower Turbo V8\nPower: Around 825 horsepower\nAcceleration 0-100 km/h (0-60 mph): Approximately 2.7-3.0 seconds\nTop Speed: Typically limited to 370 km/h",
+    "price": "$_94_800"
+  },
+  {
+    "photoPath": "src/main/resources/bugatti.jpg",
+    "carName": "2 Bugatti Chiron\n",
+    "carDescription": "Engine: 8.0-liter quad-turbocharged W16\nPower: Approximately 1,500 horsepower\nAcceleration 0-60 mph (0-100 km/h): Around 2.5 seconds\nTop Speed: Limited to 490 km/h\nTransmission: 7-speed dual-clutch automatic transmission\nBraking: Equipped with high-performance brakes for rapid deceleration\nWeight: 2,000 kilograms)",
+    "price": "$1_806_800"
+  },
+  {
+    "photoPath": "src/main/resources/gclass.jpg",
+    "carName": "3 Mercedes G63\n",
+    "carDescription": "Engine: The G-Class comes with V8 gasoline and diesel engines.\nPower:  577 horsepower.\nAcceleration 0-60 mph (0-100 km/h): Roughly 4.5 to 5.3 seconds\nTop Speed: 210-240 km/h\nTransmission: Most G-Class models come with a 9-speed automatic transmission.",
+    "price": "$300_200"
+  },
+
+  {
+    "photoPath": "src/main/resources/jiguli.jpg",
+    "carName": "5 JIGULI 07\n",
+    "carDescription": "Engine: 6.8-liter TwinPower Turbo V8\nPower: Around 1200 horsepower\nAcceleration 0-100 km/h (0-60 mph): Approximately 1.9-2.2 seconds\nTop Speed: Typically limited to 370 km/h",
+    "price": "$15_050_620"
+  },
+  {
+    "photoPath": "src/main/resources/kyoniseg.jpg",
+    "carName": "6 Kyonnisegg \n",
+    "carDescription": "Engine: 5.0-liter twin-turbocharged V8\nPower Output: Around 1.360 hourse power\nAcceleration 0-60 mph (0-100 km/h): Approximately 2.3-2.4 seconds\nTop Speed: 510 km/h\nTransmission: 7-speed dual-clutch automatic\nWeight: About 1,400-1,500 kg (3,100-3,300 lbs)",
+    "price": "$1_200_800"
+  },
+  {
+    "photoPath": "src/main/resources/mercedesbanan.jpg",
+    "carName": "7 Mercedes banan\n",
+    "carDescription": "Engine: 3.8-liter TwinPower Turbo V8\nPower: Around 600 horsepower\nAcceleration 0-100 km/h (0-60 mph): Approximately 2.7-3.0 seconds\nTop Speed: Typically limited to 340 km/h",
+    "price": "$80_800"
+  },
+  {
+    "photoPath": "src/main/resources/mustang.jpg",
+    "carName": "8 Ford Mustang \n",
+    "carDescription": "Engine: The Mustang can come with a 5.0-liter V8 engine.\nPower: The power output can range to over 450 horsepower for the V8 models.\nAcceleration 0-60 mph:  4-5 seconds.\nTop Speed: Typically, the top speed islimited to around 250-290 km/h",
+    "price": "$60_800"
+  },
+  {
+    "photoPath": "src/main/resources/porshche.jpg",
+    "carName": "9 Porshche 911\n",
+    "carDescription": "Engine: 3.0-liter twin-turbocharged flat-six\nPower Output: Around 443 horsepower\nAcceleration (0-60 mph): Approximately 3.5 seconds (with Sport Chrono Package)\nTop Speed: Over 190 mph (305 km/h)\nTransmission: Typically equipped with an 8-speed PDK (Porsche Doppelkupplung) automatic transmission\n",
+    "price": "$290_300"
+  }
+]
